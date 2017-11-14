@@ -1,0 +1,1 @@
+# videojs-subcaptions-toggle
